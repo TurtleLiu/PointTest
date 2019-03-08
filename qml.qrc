@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LayoutList.qml</file>
+        <file>LayoutListForm.ui.qml</file>
+        <file>Layout/ALCanvas.qml</file>
+        <file>Layout/ImgCtrl.qml</file>
+        <file>Layout/InputCtrl.qml</file>
+        <file>Layout/LayoutPage.qml</file>
+        <file>Layout/LayoutPageForm.ui.qml</file>
+        <file>Transformation/TransformCanvas.qml</file>
+        <file>Transformation/TransformInput.qml</file>
+        <file>Transformation/TransformPage.qml</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
